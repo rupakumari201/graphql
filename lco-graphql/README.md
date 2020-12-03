@@ -5,7 +5,7 @@ Starter project setup for upcoming crash courses
 
 #### documentation: https://graphql.org/learn/
 
-##### repo : https://github.com/hiteshchoudhary/lco-graphql
+##### repo : https://github.com/rupaku/graphql
 
 ##### npm install // to install dependency
 
